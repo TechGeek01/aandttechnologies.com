@@ -1,0 +1,11 @@
+# Notes
+scratch/*
+
+# Image scripts
+img/original.svg
+img/original.png
+img/convert-diagram.bat
+
+# Diagram temp files
+downloads/.$*
+downloads/*/.$*
